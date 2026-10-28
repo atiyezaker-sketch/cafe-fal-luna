@@ -1,0 +1,8 @@
+{
+  "name": "cafe-fal-luna",
+  "version": "1.0.0",
+  "description": "Starter web app for Cafe Fal Luna readings",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
