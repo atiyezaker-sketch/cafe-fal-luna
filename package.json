@@ -1,15 +1,15 @@
 {
-“name”: “cafe-fal-luna”,
-“version”: “1.0.0”,
-“description”: “Cafe Fal Luna AI readings”,
-“main”: “server.js”,
-“scripts”: {
-“start”: “node server.js”
+"name": "cafe-fal-luna",
+"version": "1.0.0",
+"description": "Cafe Fal Luna AI readings",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
 },
-“engines”: {
-“node”: “>=18”
+"engines": {
+"node": ">=18"
 },
-“dependencies”: {
-“openai”: “^5.20.0”
+"dependencies": {
+"openai": "^5.20.0"
 }
 }
